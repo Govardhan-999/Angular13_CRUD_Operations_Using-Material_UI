@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "new Brand",
+      "price": 46,
+      "Comment": "This is fresh ",
+      "date": "2022-05-05T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "potato",
+      "category": "Vegtables",
+      "freshness": "new Brand",
+      "price": 40,
+      "Comment": "Good product ",
+      "date": "2022-05-11T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "real me 8 pro",
+      "category": "Electronics",
+      "freshness": "second hand",
+      "price": 12000,
+      "Comment": "Best price ",
+      "date": "2022-05-11T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "new Brand",
+      "price": 120,
+      "Comment": "Best Deal",
+      "date": "2022-05-06T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "BedSheet",
+      "category": "Cloths",
+      "freshness": "new Brand",
+      "price": 500,
+      "Comment": "good",
+      "date": "2022-05-19T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "shirt & pant",
+      "category": "Cloths",
+      "freshness": "new Brand",
+      "price": 2000,
+      "Comment": "good",
+      "date": "2022-05-15T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronics",
+      "freshness": "new Brand",
+      "price": 150000,
+      "Comment": "Good Product",
+      "date": "2022-05-05T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
